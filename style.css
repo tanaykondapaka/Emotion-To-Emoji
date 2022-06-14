@@ -1,0 +1,42 @@
+body
+{
+  color: white;
+  background: #c0d3ff;
+}
+.title{
+  font-size: 40px;
+  border-radius: 10px;
+  letter-spacing: 10px;
+  font-family: Calibri;
+}
+span
+{
+  font-size: 30px;
+}
+#webcam , #selfie
+{
+  border: 2px dashed black;
+  width: 350px;
+  height: 300px; 
+  margin-top: -100px;
+}
+#emotion1 ,#emotion2  
+{
+  color: black;
+}
+.emotion_name
+{
+  font-size: 40px;
+}
+.emoji
+{
+  font-size:48px;
+}
+label{
+  font-size: 15px;
+  color:black;
+  padding:6px;
+  border-radius: 10px;
+  background-color: white;
+
+}
